@@ -2,9 +2,8 @@
 	int i;
 	main()
 	{	int v;
-		for(int i=0;i<10;i++)
+		while(1)
 		{
-			cout<<"test="<<i<<i+1;
-			cin>>v;					//update to brache -2
+			cout<<"go go";
 		}
 	}
