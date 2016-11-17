@@ -7,4 +7,5 @@
 		{	cin>>g;
 			cout<<"go go";
 		}
+		SA
 	}
