@@ -5,6 +5,6 @@
 		for(int i=0;i<10;i++)
 		{
 			cout<<"test="<<i<<i+1;
-			cin>>v;					//update to brache 2
+			cin>>v;					//update to brache -2
 		}
 	}
